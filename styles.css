@@ -1,0 +1,12 @@
+body {
+    color: #fff;
+    background-color: #000;
+}
+canvas.game_canvas {
+    display: block;
+    border: 1px solid #fff;
+    margin: auto;
+}
+div.game_controls {
+    text-align: center;
+}
